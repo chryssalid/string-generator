@@ -10,5 +10,6 @@
         "psr-4": {
             "chryssalid\\": ""
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
